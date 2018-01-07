@@ -9,7 +9,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/<namesubfolder>/<file_name.ext>
+  - path: figures/<subfolder>/<file_name.ext>
     type: static
     from:
     - 1
