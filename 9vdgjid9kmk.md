@@ -9,7 +9,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/survival_analysis/survival_analysis.png
+  - path: figures/</survival_analysis.png
     type: static
     from:
     - 1
