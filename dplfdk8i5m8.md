@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/<subfolder_name>/<
+  - path: figures/<subfolder_name>/<name
     type: table
     from:
     - 1
