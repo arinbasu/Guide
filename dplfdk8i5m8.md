@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/2191/articles/<article_id>/master/file/figures/<subfolder_name>/<file_name.csv"
+    url: "/users/2191/articles/<article_id>/master/file/figures/<subfolder_name>/<file_name.csv>"
     folder_url: "/users/2191/articles/278550/master/folder/figures/who_env"
