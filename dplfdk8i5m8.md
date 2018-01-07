@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/who_env/who_env.csv
+  - path: figures/</who_env.csv
     type: table
     from:
     - 1
