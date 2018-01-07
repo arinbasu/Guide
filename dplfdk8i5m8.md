@@ -18,4 +18,3 @@ grid:
     - 1
     url: "/users/2191/articles/278550/master/file/figures/who_env/who_env.csv"
     folder_url: "/users/2191/articles/278550/master/folder/figures/who_env"
-    
