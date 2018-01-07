@@ -1,4 +1,6 @@
 untitled.html
+figures/move_fast_and_break_things_2x
+on3fb8e585k.html
 figures/survival_analysis
 oa43tgiqatk.html
 9vdgjid9kmk.md
