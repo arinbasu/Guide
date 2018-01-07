@@ -18,6 +18,6 @@ grid:
     - 1
     - 1
     url: "/users/2191/articles/<article_id>/master/file/figures/<subfolder_name>/<filename.ext>"
-    folder_url: "/users/2191/articles/<article_id/master/folder/figures/survival_analysis"
+    folder_url: "/users/2191/articles/<article_id>/master/folder/figures/survival_analysis"
 
 ```
